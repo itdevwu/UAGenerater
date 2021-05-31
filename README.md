@@ -1,4 +1,4 @@
-# UAGenerater
+# UAGenerater (Deprecated)
 ### A Fast User Agent Generater in Python.
 
 ## Independence
